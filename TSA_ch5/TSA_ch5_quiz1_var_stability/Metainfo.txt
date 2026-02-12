@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch5_quiz1_var_stability
+Published in: Time Series Analysis
+Description: Visualization for TSA lecture materials
+Keywords: time series, visualization
+Author: Daniel Pele
