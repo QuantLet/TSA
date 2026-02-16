@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch8_rf_prediction
+Published in: Time Series Analysis
+Description: Random Forest prediction example for time series forecasting with training data, actual vs predicted values, and prediction errors
+Keywords: time series, random forest, prediction, forecasting, machine learning, RMSE
+Author: Daniel Pele

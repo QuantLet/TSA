@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch8_case_feature_importance
+Published in: Time Series Analysis
+Description: Random Forest feature importance analysis for EUR/RON exchange rate forecasting showing lag and rolling statistics importance
+Keywords: time series, random forest, feature importance, EUR/RON, machine learning
+Author: Daniel Pele

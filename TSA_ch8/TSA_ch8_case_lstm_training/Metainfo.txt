@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch8_case_lstm_training
+Published in: Time Series Analysis
+Description: LSTM training history showing training and validation loss curves with early stopping for EUR/RON exchange rate
+Keywords: time series, LSTM, neural network, training, validation, EUR/RON
+Author: Daniel Pele

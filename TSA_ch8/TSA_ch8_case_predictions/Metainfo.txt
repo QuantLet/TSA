@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch8_case_predictions
+Published in: Time Series Analysis
+Description: Comparison of ARIMA, Random Forest, and LSTM predictions vs actual EUR/RON exchange rate values on the test period
+Keywords: time series, forecasting, ARIMA, random forest, LSTM, EUR/RON, prediction
+Author: Daniel Pele

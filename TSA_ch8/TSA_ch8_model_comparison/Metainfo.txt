@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch8_model_comparison
+Published in: Time Series Analysis
+Description: Comparison of ARIMA, ARFIMA, Random Forest, and LSTM models showing prediction accuracy (RMSE) and computational cost
+Keywords: time series, model comparison, ARIMA, ARFIMA, random forest, LSTM, RMSE
+Author: Daniel Pele

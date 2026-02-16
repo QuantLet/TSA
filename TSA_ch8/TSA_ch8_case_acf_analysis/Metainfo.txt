@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch8_case_acf_analysis
+Published in: Time Series Analysis
+Description: ACF analysis of EUR/RON returns vs squared returns showing short memory in returns and long memory in volatility
+Keywords: time series, ACF, long memory, volatility, EUR/RON
+Author: Daniel Pele

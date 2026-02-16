@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch8_feature_engineering
+Published in: Time Series Analysis
+Description: Feature engineering illustration for ML time series forecasting showing lag features, rolling statistics, calendar features, and feature matrix
+Keywords: time series, feature engineering, machine learning, lag features, rolling statistics
+Author: Daniel Pele

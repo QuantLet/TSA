@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch8_case_raw_data
+Published in: Time Series Analysis
+Description: EUR/RON exchange rate raw data visualization with train/test split for the case study
+Keywords: time series, EUR/RON, exchange rate, train test split, data visualization
+Author: Daniel Pele

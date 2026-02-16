@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch8_lstm_architecture
+Published in: Time Series Analysis
+Description: Detailed LSTM cell architecture diagram showing forget, input, candidate, and output gates with cell state and hidden state flow
+Keywords: time series, LSTM, neural network, architecture, gates, deep learning
+Author: Daniel Pele
