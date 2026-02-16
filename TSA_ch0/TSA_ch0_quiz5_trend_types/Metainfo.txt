@@ -1,0 +1,13 @@
+Name of QuantLet: 'TSA_ch0_quiz5_trend_types'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Deterministic trend vs stochastic trend (random walk)'
+
+Keywords: 'time series, deterministic trend, stochastic trend, random walk, differencing, regression'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 16 February 2026'
+
+Output: 'ch0_quiz5_trend_types.pdf, ch0_quiz5_trend_types.png'

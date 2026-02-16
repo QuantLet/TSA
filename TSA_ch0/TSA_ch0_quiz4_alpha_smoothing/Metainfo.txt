@@ -1,0 +1,13 @@
+Name of QuantLet: 'TSA_ch0_quiz4_alpha_smoothing'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Effect of smoothing parameter alpha in simple exponential smoothing'
+
+Keywords: 'time series, exponential smoothing, alpha, smoothing parameter, SES, forecasting'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 16 February 2026'
+
+Output: 'ch0_quiz4_alpha_smoothing.pdf, ch0_quiz4_alpha_smoothing.png'

@@ -1,0 +1,13 @@
+Name of QuantLet: 'TSA_ch0_quiz2_holt_winters'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Comparison of SES, Holt, and Holt-Winters exponential smoothing methods'
+
+Keywords: 'time series, exponential smoothing, SES, Holt, Holt-Winters, forecasting'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 16 February 2026'
+
+Output: 'ch0_quiz2_holt_winters.pdf, ch0_quiz2_holt_winters.png'

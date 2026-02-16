@@ -1,0 +1,13 @@
+Name of QuantLet: 'TSA_ch0_quiz3_timeseries_cv'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'k-fold CV vs rolling origin cross-validation for time series'
+
+Keywords: 'time series, cross-validation, k-fold, rolling origin, model selection, temporal order'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 16 February 2026'
+
+Output: 'ch0_quiz3_timeseries_cv.pdf, ch0_quiz3_timeseries_cv.png'
