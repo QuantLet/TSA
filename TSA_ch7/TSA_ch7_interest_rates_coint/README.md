@@ -9,14 +9,15 @@ Name of Quantlet: TSA_ch7_interest_rates_coint
 
 Published in: Time Series Analysis
 
-Description: Visualization for TSA lecture materials
+Description: Cointegration analysis of US 10-Year Treasury (GS10) and 3-Month T-Bill (TB3MS) rates using real data from FRED, 2000-2024. Plots both rates and the term spread.
 
-Keywords: time series, visualization
+Keywords: time series, cointegration, interest rates, term spread, FRED
 
 Author: Daniel Pele
+
+Data Source: FRED (Federal Reserve Economic Data) - GS10, TB3MS
 
 ```
 <div align="center">
 <img src="https://raw.githubusercontent.com/QuantLet/TSA/main/TSA_ch7/TSA_ch7_interest_rates_coint/interest_rates_coint.png" alt="Image" />
 </div>
-

@@ -1,0 +1,7 @@
+Name of Quantlet: TSA_ch7_quiz5_vecm_forecast
+Published in: Time Series Analysis
+Description: Quiz visualization - comparing VECM and VAR in differences forecasts
+Keywords: VECM, VAR, forecast comparison, cointegration, quiz
+Author: Daniel Pele
+See also: TSA_ch7_case_forecast
+Submitted: 2025

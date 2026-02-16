@@ -1,0 +1,7 @@
+Name of Quantlet: TSA_ch7_quiz1_cointegration_concept
+Published in: Time Series Analysis
+Description: Quiz visualization - identifying cointegrated vs non-cointegrated pairs
+Keywords: cointegration, quiz, time series, spread, stationarity
+Author: Daniel Pele
+See also: TSA_ch7_cointegrated_series
+Submitted: 2025

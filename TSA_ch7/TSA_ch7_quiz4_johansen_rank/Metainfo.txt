@@ -1,0 +1,7 @@
+Name of Quantlet: TSA_ch7_quiz4_johansen_rank
+Published in: Time Series Analysis
+Description: Quiz visualization - determining cointegration rank via Johansen trace test
+Keywords: Johansen test, cointegration rank, trace statistic, critical values, quiz
+Author: Daniel Pele
+See also: TSA_ch7_johansen_eigenvalues
+Submitted: 2025

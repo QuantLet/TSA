@@ -1,0 +1,7 @@
+Name of Quantlet: TSA_ch7_quiz2_spurious_regression
+Published in: Time Series Analysis
+Description: Quiz visualization - spurious vs genuine regression with cointegrated series
+Keywords: spurious regression, cointegration, quiz, scatter plot, random walk
+Author: Daniel Pele
+See also: TSA_ch7_spurious_regression
+Submitted: 2025

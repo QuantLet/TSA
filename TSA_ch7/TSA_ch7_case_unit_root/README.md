@@ -9,14 +9,15 @@ Name of Quantlet: TSA_ch7_case_unit_root
 
 Published in: Time Series Analysis
 
-Description: Visualization for TSA lecture materials
+Description: Unit root analysis via ACF plots using FRED GS10 and TB3MS data, 2000-2024. Three panels: ACF of levels (slow decay), ACF of first differences (rapid decay), and ACF of the spread (stationary). Includes ADF test results.
 
-Keywords: time series, visualization
+Keywords: time series, unit root, ADF test, ACF, cointegration, FRED
 
 Author: Daniel Pele
+
+Data Source: FRED (Federal Reserve Economic Data) - GS10, TB3MS
 
 ```
 <div align="center">
 <img src="https://raw.githubusercontent.com/QuantLet/TSA/main/TSA_ch7/TSA_ch7_case_unit_root/ch7_case_unit_root.png" alt="Image" />
 </div>
-

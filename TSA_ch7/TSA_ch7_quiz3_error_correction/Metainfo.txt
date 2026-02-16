@@ -1,0 +1,7 @@
+Name of Quantlet: TSA_ch7_quiz3_error_correction
+Published in: Time Series Analysis
+Description: Quiz visualization - interpreting alpha adjustment coefficients in error correction models
+Keywords: error correction, alpha coefficients, VECM, quiz, adjustment speed
+Author: Daniel Pele
+See also: TSA_ch7_error_correction
+Submitted: 2025

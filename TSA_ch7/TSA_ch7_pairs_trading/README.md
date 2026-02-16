@@ -9,14 +9,15 @@ Name of Quantlet: TSA_ch7_pairs_trading
 
 Published in: Time Series Analysis
 
-Description: Visualization for TSA lecture materials
+Description: Pairs trading strategy using Coca-Cola (KO) and PepsiCo (PEP) daily stock prices from Yahoo Finance, 2019-2024. Computes OLS hedge ratio and plots log spread with trading bands.
 
-Keywords: time series, visualization
+Keywords: time series, pairs trading, cointegration, spread, yfinance
 
 Author: Daniel Pele
+
+Data Source: Yahoo Finance (yfinance) - KO, PEP daily prices
 
 ```
 <div align="center">
 <img src="https://raw.githubusercontent.com/QuantLet/TSA/main/TSA_ch7/TSA_ch7_pairs_trading/pairs_trading.png" alt="Image" />
 </div>
-

@@ -9,14 +9,15 @@ Name of Quantlet: TSA_ch7_case_raw_data
 
 Published in: Time Series Analysis
 
-Description: Visualization for TSA lecture materials
+Description: Case study raw data visualization using FRED GS10 (10-Year Treasury) and TB3MS (3-Month T-Bill), 2000-2024. Three panels: both rates, term spread with inverted yield curve highlighted, and scatter plot with OLS regression.
 
-Keywords: time series, visualization
+Keywords: time series, cointegration, interest rates, yield curve, FRED
 
 Author: Daniel Pele
+
+Data Source: FRED (Federal Reserve Economic Data) - GS10, TB3MS
 
 ```
 <div align="center">
 <img src="https://raw.githubusercontent.com/QuantLet/TSA/main/TSA_ch7/TSA_ch7_case_raw_data/ch7_case_raw_data.png" alt="Image" />
 </div>
-

@@ -9,14 +9,15 @@ Name of Quantlet: TSA_ch7_case_cointegration
 
 Published in: Time Series Analysis
 
-Description: Visualization for TSA lecture materials
+Description: Engle-Granger cointegration test on FRED GS10 and TB3MS interest rates, 2000-2024. Three panels: scatter plot with OLS regression, residuals over time, and ACF of residuals with ADF test.
 
-Keywords: time series, visualization
+Keywords: time series, cointegration, Engle-Granger, OLS, residuals, FRED
 
 Author: Daniel Pele
+
+Data Source: FRED (Federal Reserve Economic Data) - GS10, TB3MS
 
 ```
 <div align="center">
 <img src="https://raw.githubusercontent.com/QuantLet/TSA/main/TSA_ch7/TSA_ch7_case_cointegration/ch7_case_cointegration.png" alt="Image" />
 </div>
-
