@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch3_trend_vs_diff
+Published in: Time Series Analysis
+Description: Trend-stationary: detrend via regression (shocks temporary). Difference-stationary: take differences (shocks permanent).
+Keywords: time series, visualization
+Author: Daniel Pele

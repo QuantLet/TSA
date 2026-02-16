@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch3_overdifferencing
+Published in: Time Series Analysis
+Description: Overdifferencing an I(1) process: Delta^2 Y_t introduces artificial negative autocorrelation (ACF lag 1 approx -0.5).
+Keywords: time series, visualization
+Author: Daniel Pele

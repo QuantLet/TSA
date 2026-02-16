@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch3_rw_variance
+Published in: Time Series Analysis
+Description: Random walk variance grows linearly: Var(Y_t) = t * sigma^2. Empirical vs theoretical variance from 1000 simulations.
+Keywords: time series, visualization
+Author: Daniel Pele
