@@ -1,0 +1,6 @@
+Name of Quantlet: TSA_ch5_quiz3_leverage_effect
+Published in: Time Series Analysis
+Description: News Impact Curves comparing GARCH, GJR-GARCH, and EGARCH models
+Keywords: GARCH, volatility, quiz, time series
+Author: Daniel Pele
+Submitted: 2025

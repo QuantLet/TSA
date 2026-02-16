@@ -1,0 +1,6 @@
+Name of Quantlet: TSA_ch5_quiz5_halflife
+Published in: Time Series Analysis
+Description: Half-life of volatility shocks for different persistence levels
+Keywords: GARCH, volatility, quiz, time series
+Author: Daniel Pele
+Submitted: 2025

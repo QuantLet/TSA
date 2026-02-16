@@ -1,0 +1,6 @@
+Name of Quantlet: TSA_ch5_quiz4_stationarity
+Published in: Time Series Analysis
+Description: GARCH(1,1) stationarity condition visualization for different alpha+beta values
+Keywords: GARCH, volatility, quiz, time series
+Author: Daniel Pele
+Submitted: 2025
