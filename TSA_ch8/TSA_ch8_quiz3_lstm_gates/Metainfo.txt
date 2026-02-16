@@ -1,0 +1,6 @@
+Name of Quantlet: TSA_ch8_quiz3_lstm_gates
+Published in: Time Series Analysis
+Description: Vanishing gradient problem: Simple RNN vs LSTM comparison
+Keywords: modern extensions, quiz, time series, LSTM, RNN, vanishing gradient, deep learning
+Author: Daniel Pele
+Submitted: 2025

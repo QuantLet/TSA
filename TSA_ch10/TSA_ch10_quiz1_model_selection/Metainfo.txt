@@ -1,0 +1,6 @@
+Name of Quantlet: TSA_ch10_quiz1_model_selection
+Published in: Time Series Analysis
+Description: Model capabilities comparison for matching models to data characteristics
+Keywords: comprehensive review, quiz, time series, model selection, GARCH, ARIMA, Prophet, VAR
+Author: Daniel Pele
+Submitted: 2025

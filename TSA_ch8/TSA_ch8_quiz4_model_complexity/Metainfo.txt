@@ -1,0 +1,6 @@
+Name of Quantlet: TSA_ch8_quiz4_model_complexity
+Published in: Time Series Analysis
+Description: Model performance vs dataset size for ARIMA, Random Forest, and LSTM
+Keywords: modern extensions, quiz, time series, model selection, complexity, overfitting
+Author: Daniel Pele
+Submitted: 2025

@@ -1,0 +1,6 @@
+Name of Quantlet: TSA_ch8_quiz1_long_memory
+Published in: Time Series Analysis
+Description: Short memory vs long memory ACF decay comparison for ARFIMA models
+Keywords: modern extensions, quiz, time series, ARFIMA, long memory, ACF
+Author: Daniel Pele
+Submitted: 2025

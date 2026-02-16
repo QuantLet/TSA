@@ -1,0 +1,6 @@
+Name of Quantlet: TSA_ch10_quiz3_train_val_test
+Published in: Time Series Analysis
+Description: Time series data splitting into train, validation, and test sets
+Keywords: comprehensive review, quiz, time series, train test split, validation, cross-validation
+Author: Daniel Pele
+Submitted: 2025

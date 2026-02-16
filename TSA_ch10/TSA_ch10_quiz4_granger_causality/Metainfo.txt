@@ -1,0 +1,6 @@
+Name of Quantlet: TSA_ch10_quiz4_granger_causality
+Published in: Time Series Analysis
+Description: Granger causality vs true causality with spurious correlation example
+Keywords: comprehensive review, quiz, time series, Granger causality, spurious correlation, VAR
+Author: Daniel Pele
+Submitted: 2025

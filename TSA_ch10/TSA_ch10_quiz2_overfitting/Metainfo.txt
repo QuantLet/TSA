@@ -1,0 +1,6 @@
+Name of Quantlet: TSA_ch10_quiz2_overfitting
+Published in: Time Series Analysis
+Description: Training vs test error showing overfitting as model complexity increases
+Keywords: comprehensive review, quiz, time series, overfitting, RMSE, model complexity
+Author: Daniel Pele
+Submitted: 2025

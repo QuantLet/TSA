@@ -1,0 +1,6 @@
+Name of Quantlet: TSA_ch10_quiz5_long_seasonality
+Published in: Time Series Analysis
+Description: Long seasonality modeling: Fourier terms vs SARIMA parameter comparison
+Keywords: comprehensive review, quiz, time series, seasonality, Fourier terms, TBATS, Prophet
+Author: Daniel Pele
+Submitted: 2025
