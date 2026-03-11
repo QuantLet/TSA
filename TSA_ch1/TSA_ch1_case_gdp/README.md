@@ -9,9 +9,9 @@ Name of QuantLet: TSA_ch1_case_gdp
 
 Published in: Time Series Analysis and Forecasting (TSA)
 
-Description: Case study: Romania quarterly GDP analysis (2010-2023). Raw data visualization with COVID-19 shock, time series decomposition into trend, seasonal, and residual components. Generates charts: ch1_case_gdp_raw, ch1_case_gdp_decomposition.
+Description: Case study: Romania quarterly GDP stationarity analysis (1995-2024, Eurostat). Raw GDP visualization with crisis annotations, ADF and KPSS stationarity tests, Zivot-Andrews structural break test, log-differencing to achieve stationarity. Generates charts: ch1_case_gdp_raw, ch1_zivot_andrews, ch1_gdp_differencing.
 
-Keywords: GDP, Romania, quarterly data, decomposition, COVID-19, trend, seasonal, case study
+Keywords: GDP, Romania, quarterly data, stationarity, ADF, KPSS, Zivot-Andrews, unit root, differencing, structural break, Eurostat, case study
 
 Author: Daniel Traian Pele
 
@@ -19,10 +19,14 @@ Submitted: Monday, 10 February 2026
 
 ```
 <div align="center">
-<img src="https://raw.githubusercontent.com/QuantLet/TSA/main/TSA_ch1/TSA_ch1_case_gdp/ch1_case_gdp_decomposition.png" alt="Image" />
+<img src="https://raw.githubusercontent.com/QuantLet/TSA/main/TSA_ch1/TSA_ch1_case_gdp/ch1_case_gdp_raw.png" alt="Image" />
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/QuantLet/TSA/main/TSA_ch1/TSA_ch1_case_gdp/ch1_case_gdp_raw.png" alt="Image" />
+<img src="https://raw.githubusercontent.com/QuantLet/TSA/main/TSA_ch1/TSA_ch1_case_gdp/ch1_zivot_andrews.png" alt="Image" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/TSA/main/TSA_ch1/TSA_ch1_case_gdp/ch1_gdp_differencing.png" alt="Image" />
 </div>
 
