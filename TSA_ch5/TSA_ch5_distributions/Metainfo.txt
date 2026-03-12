@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch5_distributions
+Published in: Time Series Analysis
+Description: Comparison of Normal, Student-t, and GED distributions for GARCH innovations
+Keywords: time series, GARCH, distributions, Student-t, GED, Normal, heavy tails
+Author: Daniel Pele

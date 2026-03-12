@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch5_dcc_extensions
+Published in: Time Series Analysis
+Description: DCC extensions: aDCC (asymmetric DCC) and comparison with standard DCC
+Keywords: time series, GARCH, DCC, aDCC, asymmetric, Cappiello
+Author: Daniel Pele

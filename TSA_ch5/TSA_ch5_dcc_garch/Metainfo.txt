@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch5_dcc_garch
+Published in: Time Series Analysis
+Description: DCC-GARCH model: Dynamic Conditional Correlation estimation
+Keywords: time series, GARCH, DCC, multivariate, dynamic correlation, Engle
+Author: Daniel Pele

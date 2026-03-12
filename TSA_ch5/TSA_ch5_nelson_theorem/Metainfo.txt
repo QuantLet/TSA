@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch5_nelson_theorem
+Published in: Time Series Analysis
+Description: Illustration of Nelson (1990) theorem: IGARCH strict stationarity and Lyapunov exponent
+Keywords: time series, GARCH, IGARCH, Nelson theorem, strict stationarity, Lyapunov exponent
+Author: Daniel Pele

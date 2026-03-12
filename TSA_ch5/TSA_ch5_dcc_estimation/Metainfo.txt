@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch5_dcc_estimation
+Published in: Time Series Analysis
+Description: Two-step DCC estimation procedure with diagnostic analysis
+Keywords: time series, GARCH, DCC, estimation, two-step, Engle 2002
+Author: Daniel Pele

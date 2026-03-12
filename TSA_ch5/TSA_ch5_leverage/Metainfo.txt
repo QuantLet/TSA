@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch5_leverage
+Published in: Time Series Analysis
+Description: Demonstration of the leverage effect in equity returns
+Keywords: time series, GARCH, leverage effect, asymmetry, EGARCH, GJR
+Author: Daniel Pele
