@@ -1,0 +1,7 @@
+Name of Quantlet: TSA_ch5_cgarch_sim
+Published in: 'Time Series Analysis Course, Bucharest University of Economic Studies'
+Description: 'Component GARCH simulation: permanent vs transitory volatility component'
+Keywords: 'CGARCH, component GARCH, permanent, transitory, volatility'
+Author: 'Daniel Traian Pele'
+Datafile: ''
+Output: 'garch_cgarch_simulation.pdf'

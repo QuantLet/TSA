@@ -1,0 +1,7 @@
+Name of Quantlet: TSA_ch5_markov_garch
+Published in: 'Time Series Analysis Course, Bucharest University of Economic Studies'
+Description: 'Markov-switching GARCH simulation with regime identification'
+Keywords: 'Markov switching, regime, GARCH, volatility, structural break'
+Author: 'Daniel Traian Pele'
+Datafile: ''
+Output: 'garch_markov_switching.pdf'

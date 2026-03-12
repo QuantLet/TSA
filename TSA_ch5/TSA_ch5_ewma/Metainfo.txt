@@ -1,0 +1,7 @@
+Name of Quantlet: TSA_ch5_ewma
+Published in: 'Time Series Analysis Course, Bucharest University of Economic Studies'
+Description: 'EWMA vs GARCH(1,1) conditional volatility comparison'
+Keywords: 'EWMA, RiskMetrics, GARCH, volatility, comparison'
+Author: 'Daniel Traian Pele'
+Datafile: ''
+Output: 'garch_ewma_comparison.pdf'

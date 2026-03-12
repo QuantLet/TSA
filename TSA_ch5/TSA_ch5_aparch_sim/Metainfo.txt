@@ -1,0 +1,7 @@
+Name of Quantlet: TSA_ch5_aparch_sim
+Published in: 'Time Series Analysis Course, Bucharest University of Economic Studies'
+Description: 'APARCH simulation showing special cases (GARCH, GJR, AVGARCH, TGARCH) as nested models'
+Keywords: 'APARCH, GARCH, GJR-GARCH, TGARCH, asymmetry, power, simulation'
+Author: 'Daniel Traian Pele'
+Datafile: ''
+Output: 'garch_aparch_simulation.pdf'
